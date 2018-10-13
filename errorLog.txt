@@ -1,0 +1,355 @@
+
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of displayName: ข้อความ ➠เปลี่ยนชื่อ🌪ตัส: ข้อความ ➠เปลี่ยนตัส', parameterMap=None)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'Message' object has no attribute 'from_'
+[<module 'time' (built-in)>] 'Message' object has no attribute 'from_'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'detectMention'
+[<module 'time' (built-in)>] 'autoJoin'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'detectMention'
+[<module 'time' (built-in)>] 'detectMention'
+[<module 'time' (built-in)>] 'detectMention'
+[<module 'time' (built-in)>] name 'TemplateSendMessage' is not defined
+[<module 'time' (built-in)>] name 'MessageTemplateAction' is not defined
+[<module 'time' (built-in)>] name 'MessageTemplateAction' is not defined
+[<module 'time' (built-in)>] name 'sendMessage' is not defined
+[<module 'time' (built-in)>] name 'line' is not defined
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] Upload image failure.
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] local variable 'msgs' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msgs' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msgs' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msgs' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msgs' referenced before assignment
+[<module 'time' (built-in)>] local variable 'msgs' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] name 'arif' is not defined
+[<module 'time' (built-in)>] name 'arif' is not defined
+[<module 'time' (built-in)>] name 'arif' is not defined
+[<module 'time' (built-in)>] name 'arif' is not defined
+[<module 'time' (built-in)>] name 'arif' is not defined
+[<module 'time' (built-in)>] name 'arif' is not defined
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'checkSticker'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'contact' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'autoAdd'
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'group'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'group'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'group'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'group'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'group'
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] 'checkSticker'
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1531336451, 780432695', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1531336451, 780432695', parameterMap=None)
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] 'checkSticker'
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
+[<module 'time' (built-in)>] name 'translateen' is not defined
